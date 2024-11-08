@@ -8,8 +8,8 @@ Este repositório contém uma lista de exercícios da disciplina de Desenvolvime
 ### 💡 Tabela das questões
 | N° | Link para a questão                   |
 |-------------------|---------------------------------------|
-| Exercício - 1   | [Atividade1](#questao-1)            |
-| Exercício - 2   | [Exercício - 1](#questao-1)          |
-| [Exercício - 3](#questao-3)   | O que é o GitHub?                     |
+| 1  | [Atividade1](#questao-1)            |
+| 2  | [Atividade2](#questao-1)          |
+| 3  | O que é o GitHub?                     |
 | [Exercício - 4](#questao-4)   | Explique o conceito de Markdown.      |
 
