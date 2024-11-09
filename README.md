@@ -6,10 +6,21 @@ Este repositório contém uma lista de exercícios da disciplina de Desenvolvime
 - ***HTML***
 
 ### 💡 Tabela das questões
-| N° | Link para a questão                   |
+| N° | Link para a questão |
 |-------------------|---------------------------------------|
-| 1  | [Atividade1](#questao-1)            |
-| 2  | [Atividade2](#questao-1)          |
-| 3  | O que é o GitHub?                     |
-| [Exercício - 4](#questao-4)   | Explique o conceito de Markdown.      |
+| 01  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade1.html)   |
+| 02  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade2.html)   |
+| 03  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade3.html)   |
+| 04  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade4.html)   |
+| 05  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade5.html)   |
+| 06  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade6.html)   |
+| 07  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade7.html)   |
+| 08  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade8.html)   |
+| 09  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade9.html)   |
+| 10  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade10.html)  |
+| 11  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade11.html)  |
+| 12  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade12.html)  |
+| 13  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade13.html)  |
+| 14  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade14.html)  |
+
 
