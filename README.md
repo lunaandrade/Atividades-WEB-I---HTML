@@ -1,12 +1,12 @@
-# 📌 1° Lista de exercícios - Desenvolvimento Web I
+# 📌 Exercícios - Desenvolvimento Web I
 ### 📘 Descrição  
-Este repositório contém uma lista de exercícios da disciplina de Desenvolvimento Web I, ministrada pelo professor Thomaz Maia de Almeida no IFCE - Campus Maranguape. 
+Este repositório tem como objetivo armazenar os exercícios da disciplina de Desenvolvimento Web I, ministrada pelo professor Thomaz Maia de Almeida no IFCE - Campus Maranguape. 
 
 ### 🍊 Linguagem utilizada
 - ***HTML***
 
-### 💡 Tabela das questões
-| N° | Link para a questão |
+### 💡 1° Lista de exercícios
+| N°  | Link para a questão |
 |-------------------|---------------------------------------|
 | 01  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade1.html)   |
 | 02  | [Ver questão](https://github.com/lunaandrade/Atividades-WEB-I---HTML/blob/main/Atividade2.html)   |
